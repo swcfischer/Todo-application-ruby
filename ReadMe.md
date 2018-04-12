@@ -1,0 +1,1 @@
+This is a todo application that allows you to store your various todos, mark them complete, delete them and mark them incomplete. There is also a button for completing all your todos on a list.
